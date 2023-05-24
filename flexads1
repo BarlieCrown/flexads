@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Landing Page</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Your Landing Page</h1>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Insert your description or introduction here.</p>
+  </section>
+
+  <section>
+    <h2>Services</h2>
+    <ul>
+      <li>Service 1</li>
+      <li>Service 2</li>
+      <li>Service 3</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Feel free to get in touch with me:</p>
+    <ul>
+      <li>Email: yourname@example.com</li>
+      <li>Phone: 123-456-7890</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Your Name. All rights reserved.</p>
+  </footer>
+</body>
+</html>
